@@ -145,6 +145,14 @@
 		{
 			"Name": "DMXProtocol",
 			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		},
+		{
+			"Name": "ImagePlate",
+			"Enabled": true
 		}
 	]
 }
