@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.blackmark-14469661.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "E:/Work/Melcher/Blackmark/UE4/projects/Blackmark/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/Work/Blackmark/UE4/projects/Blackmark/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
